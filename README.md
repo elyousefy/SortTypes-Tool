@@ -1,2 +1,2 @@
-# SortTypes-Tool-C-
+# SortTypes-Tool-C#
 Creating folders to sort files by types
